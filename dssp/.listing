@@ -1,0 +1,14 @@
+drwxr-xr-x    2 0        0            4096 Oct 30 08:01 .
+drwxr-xr-x    8 0        0            4096 Nov 15 15:35 ..
+-rw-r--r--    1 0        0           27375 Oct 19  2011 dssp-2.0.1.tbz
+-rw-r--r--    1 0        0           27389 Nov 15  2011 dssp-2.0.2.tbz
+-rw-r--r--    1 0        0           27673 Nov 17  2011 dssp-2.0.3.tbz
+-rwxr-xr-x    1 0        0          877904 May 02  2012 dssp-2.0.4-linux-amd64
+-rwxr-xr-x    1 0        0          688416 May 02  2012 dssp-2.0.4-linux-i386
+-rwxr-xr-x    1 0        0          274944 May 02  2012 dssp-2.0.4-win32.exe
+-rw-r--r--    1 0        0           33515 Apr 18  2012 dssp-2.0.4.tgz
+-rw-r--r--    1 0        0           95383 Jan 22  2013 dssp-2.1.0.tgz
+-rw-r--r--    1 0        0           98522 Jul 29  2013 dssp-2.2.0.tgz
+-rw-r--r--    1 0        0           47141 Sep 11  2013 dssp-2.2.1.tgz
+-rwxr-xr-x    1 0        0         1223168 Oct 30 08:01 dssp-3.0.0-win32.exe
+-rw-r--r--    1 0        0           47974 Sep 21  2017 dssp-3.0.0.tgz
